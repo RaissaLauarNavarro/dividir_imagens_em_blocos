@@ -1,0 +1,8 @@
+# Ignorar tudo dentro de imagens_divididas
+imagens_divididas/
+
+# Ignorar todos os arquivos dentro de imagensEntrada
+imagensEntrada/*
+
+# Mas manter a pasta imagensEntrada
+!imagensEntrada/.gitkeep
